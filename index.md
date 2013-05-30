@@ -6,12 +6,12 @@ title: Musicianship resources
 
 This site contains online resources for the Musicianship courses at Charleston Southern University, including [Musicianship II][musi199] and [Musicianship IV][musi299], spring 2013. This site is still being built, so materials will be added to the site regularly, and pages will be updated as necessary.	
 
-# Introduction #
+# Modified #
 
 [Introduction to the inverted musicianship course (for students).][invertedCourse]  
 [Introduction to this "textbook" (for instructors & scholars).][introSite]  
 
-# Fundamentals #
+# Not So Basic #
 
 [Meter and time signatures.][meter]  
 [Pitches and octave designations.][pitches]  
@@ -19,7 +19,7 @@ This site contains online resources for the Musicianship courses at Charleston S
 [Triads and seventh chords.][triads]  
 [Types of contrapuntal motion.][motionTypes]
 
-# Voice-leading and model composition #
+# Even Less Basic #
 
 [Introduction to strict voice-leading.][speciesIntro]  
 [Composing a cantus firmus.][CF]  
